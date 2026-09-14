@@ -1,94 +1,56 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Rishabh%20Kumar%20Singh&fontSize=42&fontAlignY=35&desc=AI%2FML%20%7C%20Data%20Intelligence%20%7C%20Automation&descAlignY=58&animation=fadeIn" width="100%" alt="Animated header" />
 
 ### 👋 Hi, I'm Rishabh Kumar Singh
-
 **AI/ML • Data Intelligence • Automation • Full-Stack Development**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Building+practical+AI+%26+ML+solutions;Turning+data+into+useful+insights;Automating+repetitive+work+with+Python+%26+SQL;Building+full-stack+products;Always+learning%2C+building%2C+and+shipping" alt="Typing animation" />
 
-<p>
-  <a href="https://github.com/Kingrishabh91"><img src="https://img.shields.io/badge/GitHub-Kingrishabh91-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:rishabhsingh91624311@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
+<a href="https://github.com/Kingrishabh91"><img src="https://img.shields.io/badge/GitHub-Kingrishabh91-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="mailto:rishabhsingh91624311@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a final-year **B.Tech Computer Science & Engineering (AI/ML)** student focused on building practical solutions with **Python, SQL, machine learning, data analytics, and modern web technologies**.
+Final-year **B.Tech Computer Science & Engineering (AI/ML)** student focused on practical **machine learning, NLP, data analytics, automation, and AI-powered applications**.
 
 I enjoy taking a problem from **raw data → analysis → model → automation → usable product**.
 
-Currently exploring opportunities in **AI/ML, Data Analytics, Data Intelligence, and Automation**.
+---
+
+## 🧠 Tech Stack
+
+**Languages:** Python • C++ • JavaScript • SQL  
+**ML/Data:** Pandas • NumPy • Scikit-learn • TensorFlow • TF-IDF • NLP • Regression • Random Forest  
+**AI:** Generative AI • LLM workflows • AI-assisted verification  
+**Web:** React • Node.js • Express • MongoDB • Django  
+**Analytics:** Excel • Data Cleaning • Data Analysis • Data Visualization
 
 ---
 
-## 🧠 What I Work With
+## 🤖 AI & Machine Learning Lab
 
-| Area | Technologies |
-|---|---|
-| **Languages** | Python • C++ • JavaScript • SQL |
-| **Data & ML** | Pandas • NumPy • Scikit-learn • TF-IDF • Regression • Random Forest • NLP |
-| **AI** | Generative AI • LLM-powered workflows • AI-assisted verification |
-| **Web** | React • Node.js • Express • MongoDB • Django |
-| **Analytics** | Excel • Data Cleaning • Data Analysis • Data Visualization |
-| **Tools** | Git • GitHub • Jupyter • VS Code |
+| Project | Focus | Code |
+|---|---|---|
+| 📰 **Hybrid Fake News Detector** | LSTM + CNN + TF-IDF + verification | [Explore](./projects/hybrid-fake-news-detector/) |
+| 📉 **Customer Churn Prediction** | Classification + preprocessing pipelines | [Explore](./projects/customer-churn-prediction/) |
+| 💬 **NLP Sentiment API** | TF-IDF + Logistic Regression + Flask | [Explore](./projects/sentiment-analysis/) |
+| 🤖 **AI Resume Screening** | NLP + similarity matching | [Explore](./projects/ai-resume-screening/) |
+| 🔎 **Anomaly Detection** | Isolation Forest + unsupervised ML | [Explore](./projects/anomaly-detection/) |
+| 🏏 **Cricket Score Prediction** | Regression + feature engineering | [Explore](./projects/cricket-score-prediction/) |
+| 🚗 **MyDrivez** | MERN full-stack marketplace | [Explore](./projects/mydrivez/) |
 
----
-
-## 🔥 Featured Projects
-
-### 📰 Hybrid Fake News Detector
-A hybrid AI system for detecting and validating potentially false news.
-
-**Highlights:**
-- LSTM + CNN based text classification approach
-- TF-IDF feature extraction
-- Google Gemini AI for claim verification
-- GNews API integration for real-time validation
-- Designed with a practical end-to-end verification workflow
-
-### 🚗 MyDrivez — Luxury Car Marketplace
-A full-stack MERN marketplace concept for discovering, comparing, booking, and managing premium vehicles.
-
-**Highlights:**
-- Smart vehicle search and comparison
-- Booking workflow
-- Secure payment-oriented architecture
-- User dashboards
-- Responsive modern web experience
-
-### 🏏 Cricket Match Score Prediction
-A supervised machine-learning project focused on predicting cricket match outcomes / scores from historical and match-context data.
-
-**Focus areas:** feature engineering, model evaluation, and predictive analytics.
+> Portfolio implementations are clearly labeled as demonstrations/templates wherever a production dataset or external service is required.
 
 ---
 
-## 💼 Experience Snapshot
+## 💼 Experience
 
-**Data Intelligence & Automation Intern**  
-Working with data analysis, Python, SQL, AI/ML solutions, and workflow automation to improve operational efficiency and decision-making.
+**Data Intelligence & Automation Intern** — Data analysis, Python, SQL, AI/ML solutions, and workflow automation.
 
-**Machine Learning Intern — Technocolabs Softwares**  
-Built and evaluated ML models including Linear Regression, Logistic Regression, and Random Forest, with preprocessing, feature engineering, tuning, and model evaluation.
-
----
-
-## 📈 My Development Focus
-
-```text
-AI / ML                ████████████████████░ 90%
-Data Analytics         ███████████████████░░ 85%
-Python + SQL           ████████████████████░ 90%
-Full-Stack Development █████████████████░░░░ 80%
-DSA + Problem Solving  ████████████████░░░░░ 75%
-```
+**Machine Learning Intern — Technocolabs Softwares** — Linear Regression, Logistic Regression, Random Forest, preprocessing, feature engineering, tuning, and evaluation.
 
 ---
 
@@ -105,14 +67,10 @@ DSA + Problem Solving  ████████████████░░░
 ## 📊 GitHub Activity
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Kingrishabh91&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingrishabh91&hide_border=true" height="165" alt="GitHub Streak" />
-
 <br><br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingrishabh91&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
-
 </div>
 
 ---
@@ -120,9 +78,7 @@ DSA + Problem Solving  ████████████████░░░
 ## 🐍 Contribution Animation
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Kingrishabh91/Kingrishabh91/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
-
 </div>
 
 ---
@@ -131,23 +87,8 @@ DSA + Problem Solving  ████████████████░░░
 
 > **Learn deeply. Build practically. Automate intelligently. Ship consistently.**
 
-I care about more than making something work — I aim to understand **why it works, how to improve it, and how to turn it into something useful**.
-
----
-
-## 🤝 Let's Connect
-
-I'm open to conversations around **AI/ML projects, internships, data analytics, automation, and software development**.
-
-📧 **Email:** rishabhsingh91624311@gmail.com  
-🐙 **GitHub:** [@Kingrishabh91](https://github.com/Kingrishabh91)
-
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Kingrishabh91&style=flat-square" alt="Profile views" />
-
 <br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
-
 </div>
