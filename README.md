@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Rishabh%20Kumar%20Singh&fontSize=42&fontAlignY=35&desc=AI%2FML%20%7C%20Data%20Intelligence%20%7C%20Automation&descAlignY=58&animation=fadeIn" width="100%" alt="Animated header" />
 
 ### 👋 Hi, I'm Rishabh Kumar Singh
-**AI/ML • Data Intelligence • Automation • Full-Stack Development**
+**AI/ML • Data Intelligence • Machine learning**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Building+practical+AI+%26+ML+solutions;Turning+data+into+useful+insights;Automating+repetitive+work+with+Python+%26+SQL;Building+full-stack+products;Always+learning%2C+building%2C+and+shipping" alt="Typing animation" />
 
