@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Rishabh Kumar Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Rishabh%20Kumar%20Singh&fontSize=42&fontAlignY=35&desc=AI%2FML%20%7C%20Data%20Intelligence%20%7C%20Automation&descAlignY=58&animation=fadeIn" width="100%" alt="Animated header" />
 
-### AI/ML • Data Intelligence • Automation • Full-Stack Development
+### 👋 Hi, I'm Rishabh Kumar Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+practical+AI+%26+ML+solutions;Turning+data+into+useful+insights;Automating+repetitive+work+with+Python+%26+SQL;Always+learning%2C+building%2C+and+shipping" alt="Typing SVG" />
+**AI/ML • Data Intelligence • Automation • Full-Stack Development**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Building+practical+AI+%26+ML+solutions;Turning+data+into+useful+insights;Automating+repetitive+work+with+Python+%26+SQL;Building+full-stack+products;Always+learning%2C+building%2C+and+shipping" alt="Typing animation" />
 
 <p>
   <a href="https://github.com/Kingrishabh91"><img src="https://img.shields.io/badge/GitHub-Kingrishabh91-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -51,8 +53,6 @@ A hybrid AI system for detecting and validating potentially false news.
 - GNews API integration for real-time validation
 - Designed with a practical end-to-end verification workflow
 
----
-
 ### 🚗 MyDrivez — Luxury Car Marketplace
 A full-stack MERN marketplace concept for discovering, comparing, booking, and managing premium vehicles.
 
@@ -62,8 +62,6 @@ A full-stack MERN marketplace concept for discovering, comparing, booking, and m
 - Secure payment-oriented architecture
 - User dashboards
 - Responsive modern web experience
-
----
 
 ### 🏏 Cricket Match Score Prediction
 A supervised machine-learning project focused on predicting cricket match outcomes / scores from historical and match-context data.
@@ -85,20 +83,11 @@ Built and evaluated ML models including Linear Regression, Logistic Regression, 
 ## 📈 My Development Focus
 
 ```text
-AI / ML
-████████████████████░ 90%
-
-Data Analytics
-███████████████████░░ 85%
-
-Python + SQL
-████████████████████░ 90%
-
-Full-Stack Development
-█████████████████░░░░ 80%
-
-DSA + Problem Solving
-████████████████░░░░░ 75%
+AI / ML                ████████████████████░ 90%
+Data Analytics         ███████████████████░░ 85%
+Python + SQL           ████████████████████░ 90%
+Full-Stack Development █████████████████░░░░ 80%
+DSA + Problem Solving  ████████████████░░░░░ 75%
 ```
 
 ---
@@ -120,11 +109,19 @@ DSA + Problem Solving
 <img src="https://github-readme-stats.vercel.app/api?username=Kingrishabh91&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingrishabh91&hide_border=true" height="165" alt="GitHub Streak" />
 
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingrishabh91&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+
 </div>
+
+---
+
+## 🐍 Contribution Animation
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingrishabh91&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/Kingrishabh91/Kingrishabh91/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
 
 </div>
 
@@ -147,8 +144,10 @@ I'm open to conversations around **AI/ML projects, internships, data analytics, 
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=Kingrishabh91&style=flat-square" alt="Profile views" />
 
-<img src="https://komarev.com/ghpvc/?username=Kingrishabh91&style=flat-square&color=blue" alt="Profile views" />
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
 
 </div>
